@@ -140,7 +140,7 @@ div.col-dir {
 div.col-flex {
     display: flex;
     background-color: rgb(255, 199, 126);
-    max-width: 75%;
+    max-width: 85%;
     padding: 10px;
     gap: 5px;
     flex-direction: column;
@@ -180,7 +180,7 @@ div.projetos {
 
 div.social {
     flex: auto;
-    width:190px;
+    width:180px;
     background-color: rgb(255, 173, 65);
     border-radius: 20px 0px;
     text-align: center;
