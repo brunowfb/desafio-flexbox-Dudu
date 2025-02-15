@@ -68,15 +68,15 @@ div.item2 {
 
 div.item2 > h1 {
     flex: auto;
-    font-size: 1.7em;
-    text-align: just;
-    margin-left: 40px;
+    font-size: 2em;
+    text-align: justify;
+    margin-left: 30px;
     
 }
 
 div.item2 > p { 
     flex: auto;
-    font-size: 15px;
+    font-size: 13px;
     border-radius: 10px 0px;
     background-color: rgb(255, 217, 0);
     max-width:23%; 
@@ -85,11 +85,11 @@ div.item2 > p {
     margin-left: 40px;
 }
 
-div.item2 > ul {
+div.item2 > p > ul {
     flex: auto;
     font-size: 0.9em;
-    max-width: 80%;
-    
+    max-width: 50%;
+    margin-left: 10px;
 }
 
 div.segunda {
