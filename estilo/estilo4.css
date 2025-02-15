@@ -161,7 +161,7 @@ div.titulo {
 
 div.titulo > h1 {
     flex: auto;
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     
@@ -180,7 +180,7 @@ div.projetos {
 
 div.social {
     flex: auto;
-    width:180px;
+    width:200px;
     background-color: rgb(255, 173, 65);
     border-radius: 20px 0px;
     text-align: center;
@@ -195,11 +195,11 @@ div.social > a {
 }
 
 div.social > a > h2 {
-    flex: auto;
-    font-size: 1.5em;
+    flex: auto; 
     text-align: center;
     
 }
+
 
 div.social:hover {
     flex: auto;
